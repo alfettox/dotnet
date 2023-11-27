@@ -1,0 +1,36 @@
+# Ignore all bin and obj folders recursively
+**/bin/
+**/obj/
+
+# Ignore Visual Studio and Rider specific files and folders recursively
+**/.vscode/
+**/.idea/
+
+# Ignore user-specific files recursively
+**/*.rsuser
+**/*.suo
+**/*.user
+**/*.userosscache
+**/*.sln.docstates
+
+# Ignore Mono specific files recursively
+**/mono_crash.*
+
+# Ignore Windows image file caches recursively
+**/Thumbs.db
+**/ehthumbs.db
+
+# Ignore folder config file recursively
+**/Desktop.ini
+
+# Ignore Recycle Bin used on file shares recursively
+**/$RECYCLE.BIN/
+
+# Ignore Visual Studio Code directories recursively
+**/.vscode/
+
+# Ignore Visual Studio directories recursively
+**/.vs/
+
+# Ignore Rider directories recursively
+**/.idea/
