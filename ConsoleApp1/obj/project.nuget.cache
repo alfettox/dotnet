@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S6dreRg0LTDYv7+2I/jyjU5kD44TZ1jAK8CZ7TC3kuBYWkWr9hQekzM7GZ/tlg01Uec2n2DxSKXHCVaIbDr38g==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\ASPNet\\dotnet\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dottd\\.nuget\\packages\\passwordgenerator\\2.1.0\\passwordgenerator.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
